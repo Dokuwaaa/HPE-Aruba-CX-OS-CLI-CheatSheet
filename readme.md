@@ -20,12 +20,12 @@ Managing modern enterprise networks running ArubaOS-CX requires familiarity with
 
 The cheat sheet covers essential operational domains for AOS-CX:
 
-* **System & Management**: Basic setup, hostname configuration, user accounts, system clock, and firmware management (`boot image`).
-* **Interface Configuration**: Port settings, description, speed/duplex settings, administrative states (`enable`/`disable`), and breakout configurations.
-* **VLANs & Layer 2**: Creating VLANs, assigning access/trunk ports, Spanning Tree Protocol (STP), and Link Aggregation Groups (LAG / LACP).
-* **Routing & Layer 3**: Static routing, OSPFv2/v3, BGP configurations, and Virtual Routing and Forwarding (VRF).
-* **Security & Access Control**: Access Control Lists (ACLs), port security, 802.1X authentication, and SSH/HTTPS hardening.
-* **Monitoring & Troubleshooting**: Diagnostics (`ping`, `traceroute`), interface packet counters, event logs, and support file generation.
+**System & Management**: Basic setup, hostname configuration, user accounts, system clock, and firmware management (`boot image`).
+**Interface Configuration**: Port settings, description, speed/duplex settings, administrative states (`enable`/`disable`), and breakout configurations.
+**VLANs & Layer 2**: Creating VLANs, assigning access/trunk ports, Spanning Tree Protocol (STP), and Link Aggregation Groups (LAG / LACP).
+**Routing & Layer 3**: Static routing, OSPFv2/v3, BGP configurations, and Virtual Routing and Forwarding (VRF).
+**Security & Access Control**: Access Control Lists (ACLs), port security, 802.1X authentication, and SSH/HTTPS hardening.
+**Monitoring & Troubleshooting**: Diagnostics (`ping`, `traceroute`), interface packet counters, event logs, and support file generation.
 
 ---
 
